@@ -1,4 +1,4 @@
-## Hi there 👋
+# EasyMeal | AI-powered Cooking Assistant
 
 <!--
 
