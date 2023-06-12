@@ -1,5 +1,5 @@
 # EasyMeal | AI-powered Cooking Assistant
-![banner_EasyMeal] ({ https://github.com/Team-EasyMeal-C23-PC677/.github/blob/main/profile/logo1.png })
+
 
 Easy Meal is a product application that facilitates us in cooking something, allowing even those who are not familiar with cooking to be able to cook as well.
 
