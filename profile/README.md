@@ -11,6 +11,13 @@ Easy Meal is a product application that facilitates us in cooking something, all
 | C163DSY0793 | Jihan Defina Rani | Cloud Computing |
 | C125DKX4622 | Galang Adi Putra Pratama Lissanto | Cloud Computing |
 
+# Repository
+# Repository
+- [Android Application Repository](https://github.com/Team-EasyMeal-C23-PC677/EasyMeal-Mobile)
+- [Machine Learning Model Repository](https://github.com/Team-EasyMeal-C23-PC677/EasyMeal-ML)
+- [Cloud Computing Backend API Repository](https://github.com/Team-EasyMeal-C23-PC677/EasyMeal_CC)
+
+
 # Easy Meal Application 
 Link Aplikasi
 
