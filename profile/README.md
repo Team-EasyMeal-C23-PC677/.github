@@ -1,4 +1,19 @@
 # EasyMeal | AI-powered Cooking Assistant
+Easy Meal is a product application that facilitates us in cooking something, allowing even those who are not familiar with cooking to be able to cook as well.
+
+# Team Member
+| Member | Student ID | Path |
+| ----------- | :---------: | :----------: |
+| A038DSX2261 | Doanda Dresta Rahma	 | Mobile Development |
+| M035DKX4292 | Naufal Mufid Fadhlurrohman	 | Machine Learning |
+| M166DKX4202 | Nadhif Lazuardi Aulia Rahim | Machine Learning |
+| M340DKY3797 | Asri Aziziyah | Machine Learning |
+| C163DSY0793 | Jihan Defina Rani | Cloud Computing |
+| C125DKX4622 | Galang Adi Putra Pratama Lissanto | Cloud Computing |
+
+# Easy Meal Application 
+Link Aplikasi
+
 
 <!--
 
