@@ -5,9 +5,14 @@
   </a>
 </p>
 
-EasyMeal is an application which help users by giving recipe recommendations based on ingredients they have. This application also helps user find out ingredients they don't know simply by uploading image(s) of the ingredient(s).
+# 🤖 Introduction
 
-# Team Member
+📱 EasyMeal is an application which help users by giving recipe recommendations based on ingredients they have. This application also helps user find out ingredients they don't know simply by uploading image(s) of the ingredient(s).
+
+
+
+
+# 👤 Team Member
 | Member | Student ID | Path |
 | ----------- | :---------: | :----------: |
 | A038DSX2261 | Doanda Dresta Rahma	 | Mobile Development |
@@ -17,9 +22,9 @@ EasyMeal is an application which help users by giving recipe recommendations bas
 | C163DSY0793 | Jihan Defina Rani | Cloud Computing |
 | C125DKX4622 | Galang Adi Putra Pratama Lissanto | Cloud Computing |
 
-# Repository
+# 📁 Repository
 - [Android Application Repository](https://github.com/Team-EasyMeal-C23-PC677/EasyMeal-Mobile)
-- [Machine Learning Model Repository](https://github.com/Team-EasyMeal-C23-PC677/EasyMeal-ML)
+- [Machine Learning Repository](https://github.com/Team-EasyMeal-C23-PC677/EasyMeal-ML)
 - [Cloud Computing Backend API Repository](https://github.com/Team-EasyMeal-C23-PC677/EasyMeal_CC)
 
 
