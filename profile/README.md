@@ -5,6 +5,10 @@
   </a>
 </p>
 
+<p align="center">
+  Don't know what to cook? We got you!
+</p>
+
 # 🤖 Introduction
 
 🍽 EasyMeal is an application which help users by giving recipe recommendations based on ingredients they have. This application also helps user find out ingredients they don't know simply by uploading image(s) of the ingredient(s).
