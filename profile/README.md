@@ -5,7 +5,7 @@
   </a>
 </p>
 
-Easy Meal is a product application that facilitates us in cooking something, allowing even those who are not familiar with cooking to be able to cook as well.
+EasyMeal is an application which help users by giving recipe recommendations based on ingredients they have. This application also helps user find out ingredients they don't know simply by uploading image(s) of the ingredient(s).
 
 # Team Member
 | Member | Student ID | Path |
